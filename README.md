@@ -6,6 +6,5 @@
 
 - 🏥 I’m currently working on Software Dev @ Standard BioTools
 - ❌ I’m currently in my 3rd year studying Stats at UWaterloo!
-- 📫 How to reach me: aj3wang@uwaterloo.ca
-- ⚡ Fun fact: ...
+- 📫 How to reach me: anthony.wang1@uwaterloo.ca
 
